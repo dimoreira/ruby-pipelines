@@ -2,6 +2,8 @@
 
 This is a custom image for projects using [Bitbucket Pipelines](https://bitbucket.org/product/features/pipelines) containing Ruby 2.3.0 and MySQL 5.5.
 
+Docker Hub: https://hub.docker.com/r/dimoreira/ruby-pipelines/
+
 ## Using
 
 Just add the Docker Hub image directly to your `bitbucket-pipelines.yml` file:
